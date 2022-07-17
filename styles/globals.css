@@ -19,3 +19,35 @@ a {
 #__next {
   height: 100%;
 }
+
+.container-404 {
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.number-404 {
+  font-size: 8rem;
+  margin: 0px;
+  font-weight: 600;
+}
+
+.text-404 {
+  margin: 0px;
+  font-weight: 600;
+}
+
+.button-404 {
+  margin: 24px 0px;
+  background-color: black;
+  color: white;
+  font-family: Poppins;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 12px 24px;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
